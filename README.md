@@ -1,0 +1,1 @@
+# Reconhecimento-de-Texto-em-Fachadas-de-Lojas-com-Azure-AI-Vision
